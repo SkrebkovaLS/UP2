@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Лиза\\Desktop\\MPT_SP_ws-main\\WSR\\WSR\\WSR.csproj": {}
+    "C:\\Git\\UP2\\UP2\\WSR\\WSR.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Лиза\\Desktop\\MPT_SP_ws-main\\WSR\\WSR\\WSR.csproj": {
+    "C:\\Git\\UP2\\UP2\\WSR\\WSR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Лиза\\Desktop\\MPT_SP_ws-main\\WSR\\WSR\\WSR.csproj",
+        "projectUniqueName": "C:\\Git\\UP2\\UP2\\WSR\\WSR.csproj",
         "projectName": "WSR",
-        "projectPath": "C:\\Users\\Лиза\\Desktop\\MPT_SP_ws-main\\WSR\\WSR\\WSR.csproj",
+        "projectPath": "C:\\Git\\UP2\\UP2\\WSR\\WSR.csproj",
         "packagesPath": "C:\\Users\\Лиза\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Лиза\\Desktop\\MPT_SP_ws-main\\WSR\\WSR\\obj\\",
+        "outputPath": "C:\\Git\\UP2\\UP2\\WSR\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

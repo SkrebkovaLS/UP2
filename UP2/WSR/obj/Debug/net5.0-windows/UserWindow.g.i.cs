@@ -85,7 +85,7 @@ namespace WSR {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WSR;component/userwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WSR;V1.0.0.0;component/userwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\UserWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

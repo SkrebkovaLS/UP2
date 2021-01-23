@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Лиза\Desktop\MPT_SP_ws-main\WSR\WSR\obj\Debug\net5.0-windows\
+C:\Git\UP2\UP2\WSR\obj\Debug\net5.0-windows\
 WSR
 none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
-C:\Users\Лиза\Desktop\MPT_SP_ws-main\WSR\WSR\App.xaml
+C:\Git\UP2\UP2\WSR\App.xaml
 4-1546808415
 
 161640621750
 196-1574867390
 AddUserDialogWindow.xaml;AdminWindow.xaml;LoginWindow.xaml;UserWindow.xaml;
 
-True
+False
 

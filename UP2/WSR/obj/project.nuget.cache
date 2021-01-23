@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "njpbRoe7EF/ionA3tGVnzvgOIDS/LDBs/88Rl+JfhUPk2De5hDqdx6s9D47H5VCX+n7KqgRcf5lL0K87UDD7Vg==",
+  "dgSpecHash": "pKqxwUX2qRVm4o+lMZIU+7Cg8UvzxYrNqHPP//YeVnz5oAyNtVMZJhxiW8J8aMAut2dTD7k0SCZk+Uf+OXYzdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Лиза\\Desktop\\MPT_SP_ws-main\\WSR\\WSR\\WSR.csproj",
+  "projectFilePath": "C:\\Git\\UP2\\UP2\\WSR\\WSR.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Лиза\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Лиза\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -117,7 +117,7 @@ namespace WSR {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WSR;component/adduserdialogwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WSR;V1.0.0.0;component/adduserdialogwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\AddUserDialogWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
